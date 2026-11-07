@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+sauvegarde_partie.json
+.venv/
+.idea/
+.vscode/
